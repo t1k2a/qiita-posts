@@ -1,7 +1,7 @@
 ---
 title: testNewArticle001.md
 tags:
-  - ''
+  - test
 private: false
 updated_at: ''
 id: null
